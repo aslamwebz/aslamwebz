@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Aslam</h1>
 <h3 align="center">A passionate Backend developer, Living In Portugal</h3>
 
-- 🌱 I’m currently learning **Python, AI Development**
+- 🌱 I’m currently learning **Laravel, PHP, Vue, Python, AI Development**
 
 - 👨‍💻 All of my projects are available at [https://mohamedaslam.io/](https://mohamedaslam.io/)
 
