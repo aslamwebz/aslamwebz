@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Aslam</h1>
 <h3 align="center">A passionate Backend developer, Living In Portugal</h3>
 
-- 👨‍💻 All of my projects are available at [https://mohamedaslam.io/](https://mohamedaslam.io/)
+- 👨‍💻 All of my projects are available at [https://mohamedaslam.io/](https://mohamedaslam.dev/)
 
 - 💬 Ask me about **Laravel, Vue, Livewire**
 
