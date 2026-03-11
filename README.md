@@ -1,6 +1,6 @@
 # Hi, I’m Mohamed Aslam 🇵🇹
 
-**Senior Backend Engineer | Laravel & TALL Stack Specialist**
+**Software Engineer | Laravel & TALL Stack Specialist**
 
 I’m a product-minded engineer who bridges the gap between robust infrastructure and scalable backend logic. With a background of 6 years in IT Infrastructure in Qatar followed by 5+ years in PHP/Laravel development, I build systems that are as stable as they are functional.
 
