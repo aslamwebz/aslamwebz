@@ -6,7 +6,7 @@ I build the backend systems behind business applications and the controls around
 
 The repositories below are independent builds: a desktop AI assistant, an AI-assisted job application platform and a business workspace.
 
-[LinkedIn](https://www.linkedin.com/in/emaslam/) · [Email](mailto:aslam4webz@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/aslamwebz/) · [Email](mailto:aslam4webz@gmail.com)  
 **Open to fully remote employment in backend or AI application engineering.**
 
 ## Start with the code
